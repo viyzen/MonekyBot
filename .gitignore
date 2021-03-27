@@ -1,0 +1,14 @@
+config.json
+test.py
+MonkeyBot.py
+Monkey
+FileHelper.py
+embeds.py
+counter.json
+rolereact.json
+compile.bat
+cfg 
+/dist
+/build
+/.vscode
+/__pycache__
